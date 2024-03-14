@@ -1,0 +1,26 @@
+Tags:
+
+header
+section
+ul
+li
+class project
+class image-container
+class text-on-image-1
+class git-container
+class container
+class box
+
+
+
+CSS Properties:
+
+color
+margin
+padding
+flex
+text-align
+
+
+I decided to add Bootstrap to my page to give it a nice navigation bar and implemented JavaScript to enable users to send messages.
+ However, please note that the website only accepts messages but doesn't send them to me.
